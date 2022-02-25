@@ -1,0 +1,6 @@
+# dataset too large to commit
+emails.csv
+
+# jupyter notebook config
+.ipynb_checkpoints/**
+.ipynb_checkpoints
